@@ -1,0 +1,23 @@
+{
+  "filas_fuentes": {
+    "athletes": 75904,
+    "results": 162804,
+    "hosts": 53,
+    "medals": 21697
+  },
+  "registros_maraton_originales": 2296,
+  "duplicados_exactos_eliminados": 0,
+  "ediciones_maraton": 29,
+  "primer_anio": 1896,
+  "ultimo_anio_edicion": 2020,
+  "marcas_validas_originales": 1560,
+  "registros_excluidos": 736,
+  "motivos": {
+    "Estado sin clasificación válida (DNF/DNS/DSQ/IRM)": 641,
+    "Marca ausente o formato inválido": 95
+  },
+  "sin_ficha_atleta": 367,
+  "urls_atletas_duplicadas_fuente_global": 4,
+  "unidad_numerica": "milisegundos",
+  "division_a_segundos": 1000
+}

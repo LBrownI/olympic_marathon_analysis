@@ -1,0 +1,29 @@
+[
+  {
+    "doc_id": "DOC_UDP",
+    "tipo_documento": "parafrasis_documental",
+    "titulo": "En busca de la medalla olímpica perdida",
+    "autor": "Magdalena Llanos",
+    "fuente_url": "https://vergara240.udp.cl/en-busca-de-la-medalla-olimpica-perdida/",
+    "url_contenido": "https://multimedia.vergara240.udp.cl/en-busca-de-la-medalla-ol-mpica-perdida/",
+    "fecha_publicacion": null,
+    "fecha_consulta": "2026-11-02",
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "nota": "Paráfrasis de elaboración propia, no transcripción de prensa de 1928. La fecha de publicación no figura de forma verificable; no se confunde con la fecha del evento.",
+    "texto": "La investigación de Magdalena Llanos en Vergara 240 describe a Manuel Plaza Reyes como suplementero en Santiago y sitúa sus entrenamientos en el Parque Cousiño. Vincula su vida deportiva con recursos limitados. Recuerda la plata de Ámsterdam en 1928 y recoge testimonios sobre el paradero desconocido de la medalla al realizarse el reportaje. Las explicaciones sobre su destino son hipótesis, no hechos demostrados."
+  },
+  {
+    "doc_id": "DOC_COCH",
+    "tipo_documento": "parafrasis_documental",
+    "titulo": "Medallistas olímpicos chilenos",
+    "autor": "Comité Olímpico de Chile",
+    "fuente_url": "https://www.coch.cl/wp-content/uploads/2018/01/medallistas-olimpicos5.pdf",
+    "fecha_publicacion": null,
+    "fecha_consulta": "2026-11-02",
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "nota": "Paráfrasis de la fila histórica; la ruta del archivo no acredita una fecha de publicación.",
+    "texto": "El Comité Olímpico de Chile registra a Manuel Plaza como medallista de plata de atletismo en la maratón de Ámsterdam 1928. El registro respalda la medalla y la edición, pero no explica sus condiciones de entrenamiento."
+  }
+]

@@ -1,0 +1,16 @@
+doc_id,categoria,palabra,negado,oracion
+SIM_01,precariedad,humilde,False,"Manuel Plaza Reyes, suplementero de origen humilde, recorre la ciudad vendiendo diarios."
+SIM_01,epica,esfuerzo,False,"En el Parque Cousiño entrena con esfuerzo, pese a la escasez de recursos y a la precariedad de su preparación."
+SIM_01,precariedad,escasez,False,"En el Parque Cousiño entrena con esfuerzo, pese a la escasez de recursos y a la precariedad de su preparación."
+SIM_01,precariedad,precariedad,False,"En el Parque Cousiño entrena con esfuerzo, pese a la escasez de recursos y a la precariedad de su preparación."
+SIM_02,epica,hazaña,False,La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.
+SIM_02,sorpresa,asombro,False,La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.
+SIM_02,sorpresa,sorpresa,False,La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.
+SIM_02,epica,orgullo,False,La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.
+SIM_02,epica,coraje,False,La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.
+SIM_03,epica,gesta,False,El regreso de Manuel Plaza Reyes a Santiago se narra como una gesta de esfuerzo y gloria.
+SIM_03,epica,esfuerzo,False,El regreso de Manuel Plaza Reyes a Santiago se narra como una gesta de esfuerzo y gloria.
+SIM_03,epica,gloria,False,El regreso de Manuel Plaza Reyes a Santiago se narra como una gesta de esfuerzo y gloria.
+SIM_03,precariedad,dificultades,False,Su oficio de suplementero y las dificultades económicas conviven con el entusiasmo deportivo.
+SIM_03,epica,entusiasmo,False,Su oficio de suplementero y las dificultades económicas conviven con el entusiasmo deportivo.
+DOC_UDP,precariedad,limitados,False,Vincula su vida deportiva con recursos limitados.

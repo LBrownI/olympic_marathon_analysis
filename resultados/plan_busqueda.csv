@@ -1,0 +1,4 @@
+consulta,url_busqueda_conceptual,estado
+"""Manuel Plaza Reyes"" ""1928"" ""Ámsterdam"" maratón",https://www.google.com/search?q=%22Manuel+Plaza+Reyes%22+%221928%22+%22%C3%81msterdam%22+marat%C3%B3n,simulación; consulta NO ejecutada por esta función
+"""Manuel Plaza Reyes"" suplementero ""Santiago"" ""Parque Cousiño""",https://www.google.com/search?q=%22Manuel+Plaza+Reyes%22+suplementero+%22Santiago%22+%22Parque+Cousi%C3%B1o%22,simulación; consulta NO ejecutada por esta función
+"""Manuel Plaza Reyes"" ""1928"" site:memoriachilena.gob.cl",https://www.google.com/search?q=%22Manuel+Plaza+Reyes%22+%221928%22+site%3Amemoriachilena.gob.cl,simulación; consulta NO ejecutada por esta función

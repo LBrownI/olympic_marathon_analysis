@@ -1,0 +1,67 @@
+[
+  {
+    "doc_id": "SIM_01",
+    "tipo_documento": "simulado",
+    "titulo": "Recreación didáctica 1 (NO es un periódico histórico)",
+    "autor": "Elaboración propia para el ejercicio",
+    "fuente_url": null,
+    "fecha_publicacion": null,
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "texto": "Santiago, 1928. Manuel Plaza Reyes, suplementero de origen humilde, recorre la ciudad vendiendo diarios. En el Parque Cousiño entrena con esfuerzo, pese a la escasez de recursos y a la precariedad de su preparación.",
+    "sha256_texto": "a75b466a90d41051bd7dd8d22c0f33e302e5380cda35cd9163a0d07358109fa7"
+  },
+  {
+    "doc_id": "SIM_02",
+    "tipo_documento": "simulado",
+    "titulo": "Recreación didáctica 2 (NO es un periódico histórico)",
+    "autor": "Elaboración propia para el ejercicio",
+    "fuente_url": null,
+    "fecha_publicacion": null,
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "texto": "Ámsterdam, 5 de agosto de 1928. Manuel Plaza Reyes obtiene la plata para Chile. Boughera El Ouafi representa a Francia y Martti Marttelin a Finlandia. La hazaña despierta asombro y sorpresa; Sudamérica celebra con orgullo el coraje del corredor.",
+    "sha256_texto": "f18da6fe98e7edb73672e2fa370a355c3c055ea1e50a0044da73b24d1f9f46c6"
+  },
+  {
+    "doc_id": "SIM_03",
+    "tipo_documento": "simulado",
+    "titulo": "Recreación didáctica 3 (NO es un periódico histórico)",
+    "autor": "Elaboración propia para el ejercicio",
+    "fuente_url": null,
+    "fecha_publicacion": null,
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "texto": "El regreso de Manuel Plaza Reyes a Santiago se narra como una gesta de esfuerzo y gloria. Su oficio de suplementero y las dificultades económicas conviven con el entusiasmo deportivo. El Parque Cousiño aparece como escenario de un entrenamiento sin recursos suficientes.",
+    "sha256_texto": "bb049faad872557835f40b4e14aab62563575b12505ce586b61590ea0df74b04"
+  },
+  {
+    "doc_id": "DOC_UDP",
+    "tipo_documento": "parafrasis_documental",
+    "titulo": "En busca de la medalla olímpica perdida",
+    "autor": "Magdalena Llanos",
+    "fuente_url": "https://vergara240.udp.cl/en-busca-de-la-medalla-olimpica-perdida/",
+    "url_contenido": "https://multimedia.vergara240.udp.cl/en-busca-de-la-medalla-ol-mpica-perdida/",
+    "fecha_publicacion": null,
+    "fecha_consulta": "2026-11-02",
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "nota": "Paráfrasis de elaboración propia, no transcripción de prensa de 1928. La fecha de publicación no figura de forma verificable; no se confunde con la fecha del evento.",
+    "texto": "La investigación de Magdalena Llanos en Vergara 240 describe a Manuel Plaza Reyes como suplementero en Santiago y sitúa sus entrenamientos en el Parque Cousiño. Vincula su vida deportiva con recursos limitados. Recuerda la plata de Ámsterdam en 1928 y recoge testimonios sobre el paradero desconocido de la medalla al realizarse el reportaje. Las explicaciones sobre su destino son hipótesis, no hechos demostrados.",
+    "sha256_texto": "2e9dc9cd0949f25f6905abae2155ac1b0f12cb6412d849432b0b783a68ee3c32"
+  },
+  {
+    "doc_id": "DOC_COCH",
+    "tipo_documento": "parafrasis_documental",
+    "titulo": "Medallistas olímpicos chilenos",
+    "autor": "Comité Olímpico de Chile",
+    "fuente_url": "https://www.coch.cl/wp-content/uploads/2018/01/medallistas-olimpicos5.pdf",
+    "fecha_publicacion": null,
+    "fecha_consulta": "2026-11-02",
+    "anio_referido": 1928,
+    "es_cita_literal": false,
+    "nota": "Paráfrasis de la fila histórica; la ruta del archivo no acredita una fecha de publicación.",
+    "texto": "El Comité Olímpico de Chile registra a Manuel Plaza como medallista de plata de atletismo en la maratón de Ámsterdam 1928. El registro respalda la medalla y la edición, pero no explica sus condiciones de entrenamiento.",
+    "sha256_texto": "68be788308d7d7610e697937fd996231f43bb74453e3a956a83ab131aa02fd87"
+  }
+]

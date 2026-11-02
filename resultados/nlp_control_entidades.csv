@@ -1,0 +1,9 @@
+doc_id,entidad_esperada,etiqueta,detectada
+SIM_01,Manuel Plaza Reyes,PER,True
+SIM_01,Santiago,LOC,True
+SIM_01,Parque Cousiño,LOC,True
+SIM_01,1928,DATE,True
+SIM_02,Ámsterdam,LOC,True
+SIM_02,5 de agosto de 1928,DATE,True
+SIM_02,Boughera El Ouafi,PER,True
+SIM_02,Martti Marttelin,PER,True

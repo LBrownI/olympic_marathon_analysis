@@ -1,0 +1,6 @@
+doc_id,tipo_documento,tokens_filtrados,tokens_alfabeticos,epica,sorpresa,precariedad,epica_por_100,sorpresa_por_100,precariedad_por_100,tono_predominante
+SIM_01,simulado,20,33,1,0,3,3.03,0.0,9.091,precariedad
+SIM_02,simulado,24,37,3,2,0,8.108,5.405,0.0,epica
+SIM_03,simulado,24,42,4,0,1,9.524,0.0,2.381,epica
+DOC_UDP,parafrasis_documental,35,61,0,0,1,0.0,0.0,1.639,precariedad
+DOC_COCH,parafrasis_documental,19,35,0,0,0,0.0,0.0,0.0,sin evidencia léxica

@@ -1,0 +1,4 @@
+slug_game,medal_type,country_3_letter_code,athlete_full_name,tiempo,fuente_url,fecha_consulta,motivo
+tokyo-2020,GOLD,KEN,Eliud KIPCHOGE,02:08:38,https://worldathletics.org/news/report/tokyo-olympic-games-men-marathon-report,2026-11-02,Marca ausente en el CSV original; complemento documental explícito
+tokyo-2020,SILVER,NED,Abdi NAGEEYE,02:09:58,https://worldathletics.org/news/report/tokyo-olympic-games-men-marathon-report,2026-11-02,Marca ausente en el CSV original; complemento documental explícito
+tokyo-2020,BRONZE,BEL,Bashir ABDI,02:10:00,https://worldathletics.org/news/report/tokyo-olympic-games-men-marathon-report,2026-11-02,Marca ausente en el CSV original; complemento documental explícito
