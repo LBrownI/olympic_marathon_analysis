@@ -133,3 +133,15 @@ logro.
 
 8. Reflexión Crítica y Cierre (Sec. III) 
 - Ensayo analítico sobresaliente que argumenta con solidez el valor agregado del cruce Big Data + NLP frente al análisis tradicional, usando la escala temporal 1928-2028.
+
+
+Los cuatro CSV se encuentran en `SetDatos/`. La carpeta `datos_documentales/`
+contiene las paráfrasis con procedencia y el suplemento de tres marcas de Tokio,
+ausentes en el CSV original. El análisis guarda sus derivados en `resultados/`.
+El notebook incluye el código de las ocho tareas: puede ejecutarse sin abrir los
+archivos Python individuales, siempre que se conserven las dos carpetas de datos.
+
+Para reproducirlo, seleccionar el entorno Python con las dependencias de
+`requirements.txt` y ejecutar las celdas desde el principio. No se necesita conexión
+durante el análisis ni descargar un modelo lingüístico. Los scripts separados
+permiten reutilizar las funciones y el generador mantiene este informe sincronizado.
